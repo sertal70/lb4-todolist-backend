@@ -1,0 +1,5 @@
+{
+  "name": "mongodb",
+  "connector": "mongodb",
+  "url": "mongodb://<set-mongodb-uri-here>"
+}

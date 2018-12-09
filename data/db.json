@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Todo": 2,
+    "TodoList": 2
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"id\":1,\"title\":\"milk\"}"
+    },
+    "TodoList": {
+      "1": "{\"title\":\"grocerylist\",\"id\":1}"
+    }
+  }
+}
